@@ -37,7 +37,7 @@ class ViewController: UIViewController {
     }
     @IBAction func sliderTip(_ sender: Any) {
         
-        
+   //color
     }
     
 }
